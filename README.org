@@ -2,7 +2,8 @@
 
 ** Installation
 
-To install for your user only, copy the `texmf` directory to your home directory.
+To install for your system user only, copy the `texmf` directory to your home
+directory.
 
 If you already have such a directory, you will have to merge. This is best done as follows:
 
